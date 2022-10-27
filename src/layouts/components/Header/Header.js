@@ -6,7 +6,7 @@ import styles from "./Header.module.scss";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUser, faReceipt, faKey, faRightFromBracket } from "@fortawesome/free-solid-svg-icons";
 
-import "tippy.js/dist/tippy.css";
+// import "tippy.js/dist/tippy.css";
 import Menu from "../../../components/Popper/Menu";
 
 import Modal from "react-modal";
