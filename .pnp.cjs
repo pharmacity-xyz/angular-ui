@@ -46,6 +46,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["bootstrap", "virtual:7cce7388270f0826a29940b4500da88dceb1a90dfec1372603a27b4fc497fb0881c2a576543878f7bff13725543a518397bd598ddf05262743bac0b2bda5fb49#npm:5.2.2"],\
             ["classnames", "npm:2.3.2"],\
             ["mdb-ui-kit", "npm:5.0.0"],\
+            ["prop-types", "npm:15.8.1"],\
             ["react", "npm:18.2.0"],\
             ["react-bootstrap", "virtual:7cce7388270f0826a29940b4500da88dceb1a90dfec1372603a27b4fc497fb0881c2a576543878f7bff13725543a518397bd598ddf05262743bac0b2bda5fb49#npm:2.5.0"],\
             ["react-dom", "virtual:7cce7388270f0826a29940b4500da88dceb1a90dfec1372603a27b4fc497fb0881c2a576543878f7bff13725543a518397bd598ddf05262743bac0b2bda5fb49#npm:18.2.0"],\
@@ -7991,6 +7992,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["bootstrap", "virtual:7cce7388270f0826a29940b4500da88dceb1a90dfec1372603a27b4fc497fb0881c2a576543878f7bff13725543a518397bd598ddf05262743bac0b2bda5fb49#npm:5.2.2"],\
             ["classnames", "npm:2.3.2"],\
             ["mdb-ui-kit", "npm:5.0.0"],\
+            ["prop-types", "npm:15.8.1"],\
             ["react", "npm:18.2.0"],\
             ["react-bootstrap", "virtual:7cce7388270f0826a29940b4500da88dceb1a90dfec1372603a27b4fc497fb0881c2a576543878f7bff13725543a518397bd598ddf05262743bac0b2bda5fb49#npm:2.5.0"],\
             ["react-dom", "virtual:7cce7388270f0826a29940b4500da88dceb1a90dfec1372603a27b4fc497fb0881c2a576543878f7bff13725543a518397bd598ddf05262743bac0b2bda5fb49#npm:18.2.0"],\
