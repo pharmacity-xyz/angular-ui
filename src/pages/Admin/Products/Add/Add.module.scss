@@ -1,0 +1,27 @@
+@import '~bootstrap/scss/bootstrap';
+
+.title{
+    color: #f92e2c;
+}
+
+.input-group{
+    label{
+        min-width: 120px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    input,
+    select{
+        padding: 8px;
+        flex: 1;
+        border: 1px solid #333;
+        border-radius: 4px !important;
+        outline: none;
+    }
+}
+
+.add-btn{
+    width: 120px;
+    margin: 0 auto;
+}

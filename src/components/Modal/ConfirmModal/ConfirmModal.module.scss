@@ -1,0 +1,48 @@
+@import '~bootstrap/scss/bootstrap';
+
+.confirm-modal{
+    background-color: rgba(0, 0, 0, 0.4);
+
+    .modal-dialog{
+        width: 50%;
+        max-width: calc(100% - 32px);
+        background-color: #fff;
+        border-radius: 8px;
+        animation: modalFadeIn linear .3s;
+
+        .modal-header{
+            padding: 8px;
+            background-color: #CD5C5C;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+            color: #fff;
+        }
+
+        .modal-body{
+            padding: 16px 0;
+
+            .confirm-title{
+                font-size: 30px;
+                font-weight: 500;
+            }
+        
+            .action-btn{
+                Button{
+                    min-width: 120px;
+                }
+            }
+        }
+    }
+
+    @keyframes modalFadeIn {
+        from{
+            opacity: 0;
+            transform: translateY(-200px);
+        }
+
+        to{
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+}

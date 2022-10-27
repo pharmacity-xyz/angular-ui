@@ -1,0 +1,50 @@
+@import '~bootstrap/scss/bootstrap';
+
+.avatar{
+    transform: translateX(-20%);
+}
+
+.user-icon-wrapper{
+    width: 200px;
+    height: 200px;
+    padding: 16px;
+    border-radius: 50%;
+    background-color: #CD5C5C;
+
+    .user-icon{
+        font-size: 5rem;
+    }
+
+}
+.email{
+    font-size: 20px;
+    font-weight: 500;
+    color: #333;
+}
+
+
+.title{
+    color: #f92e2c;
+}
+
+.input-group{
+    label{
+        min-width: 120px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    input,
+    select{
+        padding: 8px;
+        flex: 1;
+        border: 1px solid #333;
+        border-radius: 4px !important;
+        outline: none;
+    }
+}
+
+.save-btn{
+    width: 120px;
+    margin: 0 auto;
+}
