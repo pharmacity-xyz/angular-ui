@@ -1,1 +1,0 @@
-export { LS } from './localStorage';
